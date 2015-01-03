@@ -1,0 +1,18 @@
+{
+	"notifications": [{
+		"id": 1,
+		"title": "First notification",
+		"text": "New update available",
+		"version": 105,
+		"action": "market://search?q=freemp",
+		"locale": "ru_Ru"
+	},
+	{
+		"id": 2,
+		"title": "Second notification",
+		"text": "New update available",
+		"version": 106,
+		"action": "market://search?q=freemp",
+		"locale": "ru_Ru"
+	}]
+} 
