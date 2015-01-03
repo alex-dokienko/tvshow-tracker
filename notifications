@@ -5,7 +5,7 @@
 		"text": "New update available",
 		"version": -1,
 		"action": "market://search?q=freemp",
-		"locale": "ru_Ru"
+		"locale": "all"
 	},
 	{
 		"id": 2,
