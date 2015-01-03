@@ -1,20 +1,11 @@
 {
 	"notifications": [{
-		"id": 4,
+		"id": 1,
 		"title": "App is not available",
 		"text": "Please wait",
 		"version": -1,
 		"date":"",
 		"action": "market://details?id=com.tvserials.notification",
-		"locale": "all"
-	},
-	{
-		"id": 2,
-		"title": "Second notification",
-		"text": "New update available",
-		"version": -1,
-		"date":"2015-01-03",
-		"action": "market://search?q=notification",
 		"locale": "all"
 	}]
 } 
