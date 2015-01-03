@@ -1,10 +1,11 @@
 {
 	"notifications": [{
-		"id": 1,
-		"title": "First notification",
-		"text": "New update available",
+		"id": 3,
+		"title": "App is not available",
+		"text": "Please wait",
 		"version": -1,
-		"action": "market://search?q=freemp",
+		"date":"2015-01-03"
+		"action": "market://details?id=com.tvserials.notification",
 		"locale": "all"
 	},
 	{
@@ -12,6 +13,7 @@
 		"title": "Second notification",
 		"text": "New update available",
 		"version": -1,
+		"date":"2015-01-03"
 		"action": "market://search?q=notification",
 		"locale": "all"
 	}]
