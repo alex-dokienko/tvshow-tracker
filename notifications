@@ -3,7 +3,7 @@
 		"id": 1,
 		"title": "First notification",
 		"text": "New update available",
-		"version": 105,
+		"version": -1,
 		"action": "market://search?q=freemp",
 		"locale": "ru_Ru"
 	},
