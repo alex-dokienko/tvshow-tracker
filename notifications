@@ -3,7 +3,7 @@
 		"id": 1,
 		"title": "App is not available",
 		"text": "Please wait",
-		"version": -1,
+		"version": 1000,
 		"date":"",
 		"action": "market://details?id=com.tvserials.notification",
 		"locale": "all"
