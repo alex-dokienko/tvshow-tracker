@@ -7,5 +7,13 @@
 		"date":"",
 		"action": "market://details?id=com.tvserials.notification",
 		"locale": "all"
+	},{
+		"id": 2,
+		"title": "Приложение удалено из Маркета",
+		"text": "К сожалению нас удалили из Маркета, но это никак не отразится работоспособности приложения, оставайтесь с нами",
+		"version": 86,
+		"date":"",
+		"action": "market",
+		"locale": "all"
 	}]
 } 
