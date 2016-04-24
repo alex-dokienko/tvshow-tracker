@@ -15,5 +15,13 @@
 		"date":"",
 		"action": "market",
 		"locale": "all"
+	},{
+		"id": 3,
+		"title": "Доступна новая версия 2.5.0!",
+		"text": "Обновление содержит ряд улучшений интерфейса, старый функционал сохранен",
+		"version": 87,
+		"date":"",
+		"action": "http://showtracker.tk/update/tvshow-tracker-lite-release-2.5.0-87.apk",
+		"locale": "all"
 	}]
 } 
