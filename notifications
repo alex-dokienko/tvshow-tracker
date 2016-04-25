@@ -23,5 +23,13 @@
 		"date":"",
 		"action": "http://showtracker.tk/update/tvshow-tracker-lite-release-2.5.0-87.apk",
 		"locale": "all"
+	},{
+		"id": 4,
+		"title": "Новая версия 2.5.1!",
+		"text": "Исправлен баг при навигации, для обновления воспользуйтесь меню Настройки=>Обновления",
+		"version": -1,
+		"date":"",
+		"action": "",
+		"locale": "all"
 	}]
 } 
