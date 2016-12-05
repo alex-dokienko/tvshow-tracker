@@ -63,5 +63,15 @@
 		"date":"",
 		"action": "",
 		"locale": "all"
-	}]
+	},
+	{
+		"id": 9,
+		"title": "Обновление",
+		"text": "Рабочая версия тут http://tvshowtracker.tk/",
+		"version": -1,
+		"date":"",
+		"action": "http://tvshowtracker.tk/update/tvshow-tracker-lite-release-2.5.5-92.apk",
+		"locale": "all"
+	}	
+	]
 } 
